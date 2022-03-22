@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zuthor-1
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning github
+- 👀 I’m interested in Full Stack devlopment & Game Design
+- 🌱 I’m currently learning Dot Net
 - 💞️ I’m looking to collaborate on some gaming projects
 - 📫 How to reach me at abhay831877@gmail.com
 
